@@ -1,0 +1,30 @@
+
+.wrapper{
+  padding: 3rem;
+}
+
+h1{
+  font-size: 52px;
+  margin-bottom: 1rem;
+}
+a{
+  color: blue;
+}
+a:hover{
+  color: purple;
+}
+.wrapper .para{
+   font-size: 20px;
+   margin-bottom: 2rem;
+}
+
+.zero , .first , .second , .third{
+  margin-bottom: 3rem;
+  font-size: 20px;
+  line-height: 28px;
+
+}
+.paragraph{
+  padding-left: 1rem;
+  margin: 1rem 0rem;
+}
